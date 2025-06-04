@@ -1,5 +1,5 @@
 FROM rockylinux:9
-LABEL maintainer="Jeff Geerling"
+LABEL maintainer="Lacrif"
 ENV container=docker
 
 ENV pip_packages="ansible"
