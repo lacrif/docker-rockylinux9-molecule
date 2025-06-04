@@ -33,6 +33,6 @@ I use Docker to test my Ansible roles and playbooks on multiple OSes using CI to
 
 > **Important Note**: I use this image for testing in an isolated environment—not for production—and the settings and configuration used may not be suitable for a secure and performant production environment. Use on production servers/in the wild at your own risk!
 
-## Author
+## Author Information
 
-Created in 2022 by [Jeff Geerling](https://www.jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
+Lacrif
